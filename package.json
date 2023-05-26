@@ -21,5 +21,9 @@
     "express": "^4.17.2",
     "graphql": "^15.8.0",
     "mongoose": "^7.2.1"
-  }
+  },
+  "engines":{
+    "npm": "9.x", 
+    "node": "18.x"
+}
 }
